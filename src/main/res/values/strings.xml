@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chocolate Kinza</string>
+    <string name="enter_guesses">Enter Guesses</string>
+    <string name="enter_guess">Enter Guess</string>
+</resources>
